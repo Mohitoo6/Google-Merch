@@ -11,7 +11,7 @@ To analyze the Google Merchandise Store's sales data, focusing on understanding 
    - Structured data to focus on relevant metrics such as revenue, traffic source, and device type.
 
 2. **Exploratory Data Analysis (EDA):**  
-   - Used Python libraries like `pandas`, `matplotlib`, and `seaborn` to uncover trends and insights.
+   - Used SQL Programming Python libraries like `pandas`, `matplotlib`, and `seaborn` to uncover trends and insights.
    - Key analysis focused on revenue distribution, device segmentation, and country-wise performance.
 
 3. **Data Visualization:**  
@@ -28,14 +28,14 @@ To analyze the Google Merchandise Store's sales data, focusing on understanding 
 ---
 
 **Tools Used:**  
-- **Programming Language:** Python (Jupyter Notebook)  
-- **Libraries for Data Analysis:** pandas, numpy  
+- **Programming Language:** SQL, Python  
+- **Libraries for Data Analysis:** pandas, numpy, SQLite 
 - **Visualization Libraries:** matplotlib, seaborn  
 
 ---
 
 **Key Recommendations:**  
-1. **Targeted Marketing:** Leverage customer behavior data to create personalized ads for high-engagement regions (e.g., mobile users in the U.S.).  
+1. **Targeted Marketing:** Leverage customer behaviour data to create personalized ads for high-engagement regions (e.g., mobile users in the U.S.).  
 2. **Inventory Optimization:** Align inventory with top-selling products and offer discounts for abandoned cart items.  
 3. **Enhanced Desktop Experience:** Improve desktop site speed and usability to convert more high-revenue users.  
 4. **Sales Forecasting:** Utilize historical data to predict demand during peak periods and manage inventory effectively.  
