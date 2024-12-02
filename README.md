@@ -1,7 +1,7 @@
 ### Project Summary: Google Merchandise Store Sales Analysis
 
 **Objective:**  
-To analyze the Google Merchandise Store's sales data, focusing on understanding customer behavior, identifying key sales drivers, and offering actionable recommendations to improve sales and customer experience.
+To analyze the Google Merchandise Store's sales data, focusing on understanding customer behaviour, identifying key sales drivers, and offering actionable recommendations to improve sales and customer experience.
 
 ---
 
@@ -11,7 +11,7 @@ To analyze the Google Merchandise Store's sales data, focusing on understanding 
    - Structured data to focus on relevant metrics such as revenue, traffic source, and device type.
 
 2. **Exploratory Data Analysis (EDA):**  
-   - Used SQL Programming Python libraries like `pandas`, `matplotlib`, and `seaborn` to uncover trends and insights.
+   - Incorporating OLAP Systems, utilised SQL Programming and Python libraries like `pandas`, `matplotlib`, and `seaborn` to uncover trends and insights.
    - Key analysis focused on revenue distribution, device segmentation, and country-wise performance.
 
 3. **Data Visualization:**  
@@ -22,7 +22,7 @@ To analyze the Google Merchandise Store's sales data, focusing on understanding 
 
 **Key Findings:**  
 - **Device Usage:** Mobile devices accounted for a significant portion of traffic, but desktop users generated higher revenue per visit.  
-- **Top Revenue Sources:** U.S. contributed the largest share of revenue, followed by Canada and the UK.  
+- **Top Revenue Sources:** The U.S. contributed the largest share of revenue, followed by Canada and the UK.  
 - **Traffic Analysis:** Paid search and organic traffic were the primary contributors to sales, emphasizing the importance of SEO and ad spend optimization.  
 
 ---
@@ -43,4 +43,4 @@ To analyze the Google Merchandise Store's sales data, focusing on understanding 
 
 ---
 
-This project showcases how data-driven strategies can enhance decision-making for e-commerce platforms like the Google Merchandise Store, improving both customer satisfaction and sales performance.
+This project showcases how data-driven strategies can enhance decision-making for e-commerce platforms like the Google Merchandise Store, improving customer satisfaction and sales performance.
